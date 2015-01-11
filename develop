@@ -2,6 +2,35 @@
 -temos q tem um computador com fedora 20 instalado versao development com espaco nao particionado acima de 10 gb
 -usar cfdisk ou fdisk ou partx para montar um diretorio tipo /dev/sda(x)
 
++ Host System Requirements
+Your host system should have the following software with the minimum versions indicated. This should not be an
+issue for most modern Linux distributions. Also note that many distributions will place software headers into separate
+packages, often in the form of “<package-name>-devel” or “<package-name>-dev”. Be sure to install those if your
+distribution provides them.
+Earlier versions of the listed software packages may work, but has not been tested.
+Bash-3.2 (/bin/sh should be a symbolic or hard link to bash)
+Binutils-2.17 (Versions greater than 2.24 are not recommended as they have not been tested)
+Bison-2.3 (/usr/bin/yacc should be a link to bison or small script that executes bison)
+Bzip2-1.0.4
+Coreutils-6.9
+Diffutils-2.8.1
+Findutils-4.2.31
+Gawk-4.0.1 (/usr/bin/awk should be a link to gawk)
+GCC-4.1.2 including the C++ compiler, g++ (Versions greater than 4.9.1 are not recommended as they have not
+been tested)
+Glibc-2.5.1 (Versions greater than 2.20 are not recommended as they have not been tested)
+Grep-2.5.1a
+Gzip-1.3.12
+Linux Kernel-2.6.32
+Make-3.81
+Patch-2.5.4
+Perl-5.8.8
+Sed-4.1.5
+Tar-1.18
+Xz-5.0.0
+
++Rationale for Packages in the Book
+contem a lista dos principais programas quereridos em umas instalacao linux e a definicao de cada um deles
 
 + modo de particionamento sugerido
 2.2.1.3. Convenience Partitions
