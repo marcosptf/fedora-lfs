@@ -54,3 +54,6 @@ Any separate partition that you want automatically mounted upon boot needs to be
 Details about how to specify partitions will be discussed in Section 8.2, “Creating the /etc/fstab File”.
 
 
+
+
+
