@@ -2,6 +2,9 @@
 -temos q tem um computador com fedora 20 instalado versao development com espaco nao particionado acima de 10 gb
 -usar cfdisk ou fdisk ou partx para montar um diretorio tipo /dev/sda(x)
 
++links muito uteis para dev linux kernel
+http://linux.die.net/lkmpg/index.html => The Linux Kernel Module Programming Guide
+
 + Host System Requirements
 Your host system should have the following software with the minimum versions indicated. This should not be an
 issue for most modern Linux distributions. Also note that many distributions will place software headers into separate
