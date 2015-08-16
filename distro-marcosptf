@@ -1,10 +1,15 @@
 OS Type: Linux
-Based on: Debian (Stable)
-Origin: USA
+Based on: fedora
+Origin: brazil
 Architecture: x86_64
-Desktop: GNOME
+Desktop: kde with games in gnome too
 Category: Gaming
 Status: Active
+
+possible distro name:
+-brazil gameux
+-arenabr
+-
 
 description:
 we want to develop a new one distro linux, where a lot of games can be pre-install independent of the licence.
