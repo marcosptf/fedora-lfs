@@ -1,0 +1,10 @@
+OS Type: Linux
+Based on: Debian (Stable)
+Origin: USA
+Architecture: x86_64
+Desktop: GNOME
+Category: Gaming
+Status: Active
+
+description:
+we want to develop a new one distro linux, where a lot of games can be pre-install independent of the licence.
