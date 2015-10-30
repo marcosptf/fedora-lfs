@@ -59,9 +59,16 @@ Details about how to specify partitions will be discussed in Section 8.2, “Cre
 
 
 +links tematicos inspiradores
+/*  link q contem conceitos de kernel */
 http://kernelnewbies.org/FirstKernelPatch
+
+/*  links de como ser package maintainers */
 https://fedoraproject.org/wiki/Join_the_package_collection_maintainers#How_to_join_the_Fedora_Package_Collection_Maintainers.3F
+https://fedoraproject.org/wiki/Category:Package_Maintainers?rd=PackageMaintainers
+
+/* link para games em linux */
 https://fedoraproject.org/wiki/SIGs/Games
+
 
 +detalhes para a nova distro
 OS Type: Linux
