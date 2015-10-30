@@ -63,3 +63,19 @@ http://kernelnewbies.org/FirstKernelPatch
 https://fedoraproject.org/wiki/Join_the_package_collection_maintainers#How_to_join_the_Fedora_Package_Collection_Maintainers.3F
 https://fedoraproject.org/wiki/SIGs/Games
 
++detalhes para a nova distro
+OS Type: Linux
+Based on: fedora
+Origin: brazil
+Architecture: x86_64
+Desktop: kde with games in gnome too
+Category: Gaming
+Status: Active
+possible distro name:
+-brazil gameux
+-arenabr
+-
+description:
+we want to develop a new one distro linux, where a lot of games can be pre-install independent of the licence.
+
+
