@@ -78,4 +78,16 @@ possible distro name:
 description:
 we want to develop a new one distro linux, where a lot of games can be pre-install independent of the licence.
 
++category:games
+-steamOS
+-http://www.linuxconsole.org/
++distros to research and know:
+-oracle
+-open solaris
+-kali linux - backtrack
+-free bsd
+sites linux games:
+http://ubuntugames.org/
+http://absolutist.com/linux/
+http://www.lgdb.org/
 
